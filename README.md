@@ -1,2 +1,2 @@
-# odin-stock-picker
-Stock Picker - An assignment for The Odin Project
+# Stock Picker
+An assignment for The Odin Project
